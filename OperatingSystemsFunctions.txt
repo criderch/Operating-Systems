@@ -1,3 +1,8 @@
-Operating Systems provide the functions for your computer. When you push the power button on your computer it is the operating system that is providing this function. 
+Operating Systems provide the functions for your computer. 
+Pushing the button to start your computer is one exampleof an operating system function
 If you need to restart your computer it is the operating systing that is taking care of that.
 Each operating systerm has a different method to restart your computer.
+Another operating system function is shutting down your computer.
+There are several ways a person may choose to shut down their computer.
+These options would be to completly power off or place into a sleep mode.
+
